@@ -79,5 +79,4 @@ var spa = (function( $ ) {
 //
 jQuery(document).ready(
   function() { spa.initModule( jQuery('#spa') ); }
-
 );
